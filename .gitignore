@@ -1,0 +1,7 @@
+# Godot
+.godot/
+*.translation
+# Builds
+build/
+*.apk
+*.aab
